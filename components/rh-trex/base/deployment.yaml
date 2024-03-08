@@ -40,7 +40,7 @@ spec:
         command:
         - sh
         - -c
-        image: quay.io/redhat-user-workloads-stage/ysubrama-tenant/rh-trex/rh-trex@sha256:20fd4ec608972b27402ec19d76458cb6a379dc503a3160a512adfaa7f3b0c45f
+        image: quay.io/redhat-user-workloads-stage/ysubrama-tenant/rh-trex/rh-trex@sha256:826a039643d2b5e21ccb8318492b4e31424199f86fdcf2350aee87998c54881d
         name: trex
         ports:
         - containerPort: 8000
